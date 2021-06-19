@@ -1,0 +1,10 @@
+body {
+background-size: cover;
+background-position:center;
+text-align: center;
+}
+#mycan{
+ border:10px groove lightblue;
+ 
+
+}
